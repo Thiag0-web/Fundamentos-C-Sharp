@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\Calculator\obj\Debug\net10.0\ref\Calculator.dll
