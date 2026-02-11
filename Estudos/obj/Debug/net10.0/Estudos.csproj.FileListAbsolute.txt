@@ -1,0 +1,14 @@
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\Estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\Estudos.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\Estudos.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Backend\Estudos\bin\Debug\net10.0\Estudos.exe
+C:\Users\Thiago\Documents\Backend\Estudos\bin\Debug\net10.0\Estudos.deps.json
+C:\Users\Thiago\Documents\Backend\Estudos\bin\Debug\net10.0\Estudos.runtimeconfig.json
+C:\Users\Thiago\Documents\Backend\Estudos\bin\Debug\net10.0\Estudos.dll
+C:\Users\Thiago\Documents\Backend\Estudos\bin\Debug\net10.0\Estudos.pdb
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\Estudos.dll
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\refint\Estudos.dll
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\Estudos.pdb
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\Estudos.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Backend\Estudos\obj\Debug\net10.0\ref\Estudos.dll

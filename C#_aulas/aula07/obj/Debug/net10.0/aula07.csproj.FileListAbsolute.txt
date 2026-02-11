@@ -1,0 +1,14 @@
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\bin\Debug\net10.0\aula07.exe
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\bin\Debug\net10.0\aula07.deps.json
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\bin\Debug\net10.0\aula07.runtimeconfig.json
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\bin\Debug\net10.0\aula07.dll
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\bin\Debug\net10.0\aula07.pdb
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\aula07.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\aula07.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\aula07.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\aula07.dll
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\refint\aula07.dll
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\aula07.pdb
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\aula07.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Backend\C#_aulas\aula07\obj\Debug\net10.0\ref\aula07.dll
