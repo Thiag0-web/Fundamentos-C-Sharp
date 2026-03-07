@@ -1,0 +1,13 @@
+## Pastas do Visual Studio e Cache
+.vs/
+.vscode/
+*.suo
+*.user
+
+## Pastas de Compilação (Onde fica o .exe e arquivos temporários)
+bin/
+obj/
+
+## Arquivos de log e temporários do Windows
+*.log
+Thumbs.db
