@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/SJTUheSL0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

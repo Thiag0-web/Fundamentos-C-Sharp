@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10_ScaffoldViaVisualStudio\\RestWithASPNET10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE850A9-1329-4362-B864-98FABA73BAC7}|RestWithASPNET10\\RestWithASPNET10.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\rest-with-asp-net-10\\restwithaspnet10_scaffoldviavisualstudio\\restwithaspnet10\\restwithaspnet10\\restwithaspnet10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EAE850A9-1329-4362-B864-98FABA73BAC7}|RestWithASPNET10\\RestWithASPNET10.csproj|solutionrelative:restwithaspnet10\\restwithaspnet10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE850A9-1329-4362-B864-98FABA73BAC7}|RestWithASPNET10\\RestWithASPNET10.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\rest-with-asp-net-10\\restwithaspnet10_scaffoldviavisualstudio\\restwithaspnet10\\restwithaspnet10\\restwithaspnet10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAE850A9-1329-4362-B864-98FABA73BAC7}|RestWithASPNET10\\RestWithASPNET10.csproj|solutionrelative:restwithaspnet10\\restwithaspnet10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE850A9-1329-4362-B864-98FABA73BAC7}|RestWithASPNET10\\RestWithASPNET10.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\rest-with-asp-net-10\\restwithaspnet10_scaffoldviavisualstudio\\restwithaspnet10\\restwithaspnet10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE850A9-1329-4362-B864-98FABA73BAC7}|RestWithASPNET10\\RestWithASPNET10.csproj|solutionrelative:restwithaspnet10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestWithASPNET10.http",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10_ScaffoldViaVisualStudio\\RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10.http",
+              "RelativeDocumentMoniker": "RestWithASPNET10\\RestWithASPNET10.http",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10_ScaffoldViaVisualStudio\\RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10.http",
+              "RelativeToolTip": "RestWithASPNET10\\RestWithASPNET10.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-30T14:09:49.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestWithASPNET10",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10_ScaffoldViaVisualStudio\\RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10.csproj",
+              "RelativeDocumentMoniker": "RestWithASPNET10\\RestWithASPNET10.csproj",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10_ScaffoldViaVisualStudio\\RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10.csproj",
+              "RelativeToolTip": "RestWithASPNET10\\RestWithASPNET10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T14:09:06.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10_ScaffoldViaVisualStudio\\RestWithASPNET10\\RestWithASPNET10\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET10\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\rest-with-asp-net-10\\RestWithASPNET10_ScaffoldViaVisualStudio\\RestWithASPNET10\\RestWithASPNET10\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RestWithASPNET10\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:08:48.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

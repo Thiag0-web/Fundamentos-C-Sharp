@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Curso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Curso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +26,39 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Curso.csproj",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Curso.csproj",
+              "RelativeDocumentMoniker": "Curso.csproj",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Curso.csproj",
+              "RelativeToolTip": "Curso.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T18:58:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Aluno.cs",
               "RelativeDocumentMoniker": "Aluno.cs",
               "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Aluno.cs",
               "RelativeToolTip": "Aluno.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T18:54:38.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\notas\\Curso\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T18:39:10.465Z",
               "EditorCaption": ""
