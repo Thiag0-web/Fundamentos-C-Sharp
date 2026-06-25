@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\bin\Debug\net10.0\0 - EntradaDeDadosEmC#.exe
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\bin\Debug\net10.0\0 - EntradaDeDadosEmC#.deps.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\bin\Debug\net10.0\0 - EntradaDeDadosEmC#.runtimeconfig.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\bin\Debug\net10.0\0 - EntradaDeDadosEmC#.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\bin\Debug\net10.0\0 - EntradaDeDadosEmC#.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.sourcelink.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\refint\0 - EntradaDeDadosEmC#.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\0 - EntradaDeDadosEmC#.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\0 - EntradaDeDadosEmC#\0 - EntradaDeDadosEmC#\obj\Debug\net10.0\ref\0 - EntradaDeDadosEmC#.dll

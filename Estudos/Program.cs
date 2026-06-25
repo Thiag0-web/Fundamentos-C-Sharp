@@ -1,34 +1,31 @@
 ﻿using System;
 
-namespace Calcula
+namespace Course
 {
-    public class Program
+    class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            Console.WriteLine("=========Bem-vindo à Calculadora Simples!=========");
 
-            Console.WriteLine("Digite o primeiro número:");
-            int num1 = Convert.ToInt32(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o segundo número:");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            double[] vect = new double[n];
 
-            Console.WriteLine($"Soma: {num1 + num2}");
-            Console.WriteLine($"Subtração: {num1 - num2}");
-            Console.WriteLine($"Multiplicação: {num1 * num2}");
-
-            if (num2 != 0)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine($"Divisão: {num1 / num2}");
-            }
-            else
-            {
-                Console.WriteLine("Divisão: Erro (Divisão por zero)");
+                vect[i] = double.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("\nCálculos concluídos! Pressione qualquer tecla para sair...");
-            Console.ReadKey();
+            double sum = 0;
+            for (int i = 0; i < n; i++)
+            {
+                sum += vect[i];
+            }
+
+            double avg = sum / n;
+
+            Console.WriteLine("AVERAGE HEIGHT = " + avg.ToString);
+
         }
     }
 }

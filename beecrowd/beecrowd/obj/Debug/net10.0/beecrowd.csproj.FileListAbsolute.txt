@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\bin\Debug\net10.0\beecrowd.exe
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\bin\Debug\net10.0\beecrowd.deps.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\bin\Debug\net10.0\beecrowd.runtimeconfig.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\bin\Debug\net10.0\beecrowd.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\bin\Debug\net10.0\beecrowd.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.sourcelink.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\refint\beecrowd.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\beecrowd.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\beecrowd\beecrowd\obj\Debug\net10.0\ref\beecrowd.dll

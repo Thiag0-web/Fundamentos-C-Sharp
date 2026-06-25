@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\bin\Debug\net10.0\exercicioGPT.exe
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\bin\Debug\net10.0\exercicioGPT.deps.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\bin\Debug\net10.0\exercicioGPT.runtimeconfig.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\bin\Debug\net10.0\exercicioGPT.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\bin\Debug\net10.0\exercicioGPT.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.sourcelink.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\refint\exercicioGPT.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\exercicioGPT.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\ExerciciosGPT\exercicioGPT\obj\Debug\net10.0\ref\exercicioGPT.dll

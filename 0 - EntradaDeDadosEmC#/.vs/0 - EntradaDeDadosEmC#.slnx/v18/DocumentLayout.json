@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\0 - EntradaDeDadosEmC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5190C8-C6D9-408B-B2B6-8B9F9ED91717}|0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\0 - entradadedadosemc#\\0 - entradadedadosemc#\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5190C8-C6D9-408B-B2B6-8B9F9ED91717}|0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#.csproj|solutionrelative:0 - entradadedadosemc#\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5190C8-C6D9-408B-B2B6-8B9F9ED91717}|0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\0 - entradadedadosemc#\\0 - entradadedadosemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5190C8-C6D9-408B-B2B6-8B9F9ED91717}|0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#.csproj|solutionrelative:0 - entradadedadosemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#\\Exercicio1.cs",
+              "RelativeDocumentMoniker": "0 - EntradaDeDadosEmC#\\Exercicio1.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#\\Exercicio1.cs",
+              "RelativeToolTip": "0 - EntradaDeDadosEmC#\\Exercicio1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:42:36.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#\\Program.cs",
+              "RelativeDocumentMoniker": "0 - EntradaDeDadosEmC#\\Program.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\0 - EntradaDeDadosEmC#\\0 - EntradaDeDadosEmC#\\Program.cs",
+              "RelativeToolTip": "0 - EntradaDeDadosEmC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:42:03.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

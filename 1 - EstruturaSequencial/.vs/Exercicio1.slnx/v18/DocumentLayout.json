@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\EstruturaSequencial.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\exercicio1\\exercicio1\\estruturasequencial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\EstruturaSequencial.csproj|solutionrelative:exercicio1\\estruturasequencial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\exercicio1\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\exercicio1\\exercicio1\\exerciciobonus1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|solutionrelative:exercicio1\\exerciciobonus1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\exercicio1\\exercicio1\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|solutionrelative:exercicio1\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\exercicio1\\exercicio1\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|solutionrelative:exercicio1\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|c:\\users\\thiago\\desktop\\estudos\\estudo_c#\\exercicio1\\exercicio1\\exercico4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7F7A1C-D8F1-4E17-A33A-AE4DD0A32232}|Exercicio1\\Exercicios.csproj|solutionrelative:exercicio1\\exercico4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstruturaSequencial",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\EstruturaSequencial.csproj",
+              "RelativeDocumentMoniker": "Exercicio1\\EstruturaSequencial.csproj",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\EstruturaSequencial.csproj",
+              "RelativeToolTip": "Exercicio1\\EstruturaSequencial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-03T17:49:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExercicioBonus1.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\ExercicioBonus1.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\ExercicioBonus1.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\ExercicioBonus1.cs",
+              "RelativeToolTip": "Exercicio1\\ExercicioBonus1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T17:28:29.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Exercicio6.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Exercicio6.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Exercicio6.cs",
+              "RelativeToolTip": "Exercicio1\\Exercicio6.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T17:20:17.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Exercicio5.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Exercicio5.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Exercicio5.cs",
+              "RelativeToolTip": "Exercicio1\\Exercicio5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:14:46.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercico4.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Exercico4.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Exercico4.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Exercico4.cs",
+              "RelativeToolTip": "Exercicio1\\Exercico4.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T15:59:26.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Thiago\\Desktop\\Estudos\\Estudo_C#\\Exercicio1\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:07:11.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

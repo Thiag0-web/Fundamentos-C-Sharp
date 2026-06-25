@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\bin\Debug\net10.0\EstruturaCondicional.exe
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\bin\Debug\net10.0\EstruturaCondicional.deps.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\bin\Debug\net10.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\bin\Debug\net10.0\EstruturaCondicional.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\bin\Debug\net10.0\EstruturaCondicional.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.sourcelink.json
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\refint\EstruturaCondicional.dll
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.pdb
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Estudos\Estudo_C#\2 - EstruturaCondicional\EstruturaCondicional\obj\Debug\net10.0\ref\EstruturaCondicional.dll
